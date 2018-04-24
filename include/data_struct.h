@@ -5,7 +5,7 @@ typedef struct compagnie Compagnie ;
 struct compagnie
     {
     char* nom;
-    char acronyme[3];
+    char acronym[3];
     };
 
 typedef struct avion Avion ;
